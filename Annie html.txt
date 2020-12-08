@@ -1,0 +1,150 @@
+<div class="resume">
+  <div class="left">
+    <img src="https://upload.cc/i1/2020/12/08/hFJeYa.png" width="250" height="250">
+    <h1>Annie Chi</h1>
+    <h5>6F., No.12, Yingshi 2nd St., Zhongli Dist., Taoyuan City 320</h5>
+    <h5>+886 983187 616</h5>
+
+    <hr>
+    <p>1995/10/20 • Taiwan</p>
+
+    <div class="decoration"></div>
+    <div class="block">
+      <h4></h4>
+      <h2>Education</h2>
+      <ul class="experience">
+        <li class="year">2020
+          <ul>
+            National Taiwan University<br>
+            <span class="smalltext">Master of Science in Industrial and Organizational Psychology
+          </ul>
+        </li>
+        <li class="year">2018
+          <ul>
+            <li>National Taiwan University<br><span class="smalltext">Bachelor of Science in Psychology</li>
+          </ul>
+        </li>
+        <li class="year">2017
+          <ul>
+            National Chengchi University<br> <span class="smalltext">Bachelor of Science in Psychology</span>
+          </ul>
+        </li>
+
+    </div>
+
+    <div class="block">
+      <h4>Language</h4>
+      <h2>English</h2>
+      <ul class="language">
+        <li>
+          Reading
+          <div class="bar">
+            <div class="value p80"></div>
+          </div>
+        </li>
+        <li>
+          Listening
+          <div class="bar">
+            <div class="value p80"></div>
+          </div>
+        </li>
+        <li>
+          Writing
+          <div class="bar">
+            <div class="value p80"></div>
+          </div>
+        </li>
+        <li>
+          Speaking
+          <div class="bar">
+            <div class="value p70"></div>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <div class="block">
+      <h4>Skills</h4>
+      <h2>Software</h2>
+      <ul class="skills">
+        <li>
+          Office
+          <div class="bar">
+            <div class="value p90"></div>
+          </div>
+        </li>
+        <li>
+          Illustrator
+          <div class="bar">
+            <div class="value p60"></div>
+          </div>
+        </li>
+        <li>
+          Photoshop
+          <div class="bar">
+            <div class="value p60"></div>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+  <div class="right">
+    <div class="decoration"></div>
+    <div class="block">
+      <h4> </h4>
+      <h2>Work and Internship Experience</h2>
+      <ul class="experience">
+        <li class="year">2020
+          <ul>
+            <li>MediaTek Inc.<br>
+              <span class="smalltext">Human Resources Intern</li>
+            <li class="minitext">Designed internal Push Ads to promote mid-year PMD implementation, bolstering the completion rate by 12.5%.
+            <li class="minitext">Supported 2020 Employee Promotion and streamlined the preparation process.
+          </ul>
+        </li>
+        <li class="year">2019
+          <ul>
+            <li>Mercer (Taiwan)<br><span class="smalltext">Career Intern</li>
+            <li class="minitext">Managed and maintained Mercer workshops’ event pages.
+            <li class="minitext">Conducted yearly remuneration and benefits survey, responsible for data verifications of over 20 companies in Taiwan.
+
+          </ul>
+        </li>
+        <li class="year">2018
+          <ul>
+            <li>Lite-On Technology Corporation<br> <span class="smalltext">Human Resources Intern</span></li>
+            <li class="minitext">Designed questionnaires and conducted the employee satisfaction survey for over 1000 employees in Lite-On Technology Corp, Guangzhou, China.
+            <li class="minitext">Interviewed HR manager from each factory, analyzed survey data, and presented final report from both theoretical and practical perspectives.
+          </ul>
+
+        </li>
+        <li class="year">2018
+          <ul>
+            <li> Microsoft Taiwan<br>
+              <span class="smalltext">Marketing Assistant</span></li>
+            <li class="minitext">Responsible for the daily negotiations between agencies and managers to ensure dozens of marketing events for Dynamics 365 be perfectly held.
+            <li class="minitext">Cooperated with the Taipei City government to advertise the 2018 Career Fair. Formed and headed a team of 20 people to promote the event through onsite events and social media. Successfully attracted 9,643 people to attend the Career Fair.
+          </ul>
+        </li>
+
+      </ul>
+      </li>
+      </ul>
+
+    </div>
+    <div class="block">
+      <h4></h4>
+      <h2>Extracurricular Activities</h2>
+      <ul class="activities">
+        <li>2017 | Lecturer of Computer Science Courses</li>
+        <li class="minitext2">Designed programming courses and taught 40 children to code at Foundation for Women's Rights Promotion and Development.</li>
+        <li>2016 | Captain of Basketball Team</li>
+        <li class="minitext2">Organized and managed a 12-member team. Designed daily training programs and led the team to win champion in the 2017 basketball competition.</li>
+        <li>2015 | Organizer of Remote School's Science Camp</li>
+        <li class="minitext2">Designed science courses, activities, and acted as a counselor for children in the 5-day camp.</li>
+
+      </ul>
+    </div>
+  </div>
+</div>
